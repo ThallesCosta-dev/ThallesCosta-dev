@@ -31,8 +31,6 @@ Rio de Janeiro | Novembro 2021 — Presente
 
 Essa posição exige habilidades de análise de dados, resolução de problemas e visão estratégica — competências que espero aplicar também no setor de TI.
 
-**Experiência Anterior em Suporte Técnico**  
-
 **Assistente de Suporte Técnico N2 | Exército Brasileiro**  
 Rio de Janeiro | Janeiro 2020 — Março 2021
 
