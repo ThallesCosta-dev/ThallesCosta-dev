@@ -1,4 +1,4 @@
-# Thalles Costa - Currículo e Transição de Carreira para TI 🚀💻
+# Thalles Costa - Currículo 🚀💻
 
 Bem-vindo ao meu repositório de currículo! Sou Thalles Costa, um profissional dinâmico com experiência consolidada em **Gerenciamento de E-commerce** e **Marketing Digital**. Nos últimos anos, tenho desenvolvido um perfil analítico e voltado para resultados no setor de e-commerce, gerenciando operações complexas e liderando equipes para alcançar metas de crescimento. No entanto, estou em busca de novos desafios e oportunidades na **área de Tecnologia da Informação**, onde pretendo aplicar meu conhecimento em dados e otimização de processos e aprofundar-me em suporte técnico e infraestrutura de TI. 🎯
 
