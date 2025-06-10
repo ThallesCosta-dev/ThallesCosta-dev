@@ -1,84 +1,100 @@
-# Thalles Costa - Currículo 🚀💻
+Thalles Costa - Currículo 🚀💻
+Bem-vindo ao meu repositório de currículo! Sou Thalles Costa, um profissional dinâmico com experiência consolidada em E-commerce, Marketing Digital e, atualmente, em Tecnologia da Informação, com ênfase em desenvolvimento front-end e implantação de soluções digitais. Ao longo dos anos, venho desenvolvendo uma visão analítica, prática e voltada para resultados, e agora busco consolidar minha transição definitiva para áreas como Suporte Técnico, Infraestrutura de TI e Análise de Sistemas.
 
-Bem-vindo ao meu repositório de currículo! Sou Thalles Costa, um profissional dinâmico com experiência consolidada em **Gerenciamento de E-commerce** e **Marketing Digital**. Nos últimos anos, tenho desenvolvido um perfil analítico e voltado para resultados no setor de e-commerce, gerenciando operações complexas e liderando equipes para alcançar metas de crescimento. No entanto, estou em busca de novos desafios e oportunidades na **área de Tecnologia da Informação**, onde pretendo aplicar meu conhecimento em dados e otimização de processos e aprofundar-me em suporte técnico e infraestrutura de TI. 🎯
+🎯 Objetivo
+Atuar em posições de Suporte Técnico de TI, Análise de Infraestrutura ou Tecnologia Aplicada, onde posso integrar minha experiência com e-commerce, análise de dados e desenvolvimento front-end com meu interesse contínuo por tecnologia, automação e eficiência operacional.
 
----
+👤 Sobre Mim
+Nome: Thalles Costa
 
-## 🎯 Objetivo
+Localização: Rio de Janeiro, Brasil 🇧🇷
 
-Minha meta é realizar uma transição de carreira para **Suporte Técnico de TI** ou **Análise de Infraestrutura**, onde posso integrar minha experiência em gestão e análise de dados com conhecimentos técnicos para proporcionar suporte de qualidade e eficiência na resolução de problemas.
+Contato: costa.thalles71@gmail.com 📧 | (21) 99681-8038 📞
 
----
+LinkedIn: Meu LinkedIn 🔗
 
-## 👤 Sobre Mim
+💼 Experiência Profissional Atual
+Analista de Implantação | Gecommerce
+Remoto | Março 2025 — Presente
 
-- **Nome**: Thalles Costa
-- **Localização**: Rio de Janeiro, Brasil 🇧🇷
-- **Contato**: costa.thalles71@gmail.com 📧 | (21) 99681-8038 📞
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/thallesfcosta/) 🔗
+Criação e implantação de e-commerces personalizados e soluções digitais para diversos nichos de mercado.
 
----
+Desenvolvimento de interfaces modernas, responsivas e otimizadas utilizando React, Vue.js, TypeScript, JavaScript, HTML5, CSS3 e Tailwind CSS.
 
-## 💼 Experiência Profissional Atual
+Criação de landing pages de alta conversão e integração com sistemas terceiros (como ERPs e plataformas de pagamento).
 
-**Gerente e Consultor de E-Commerce | ZEM SHOP**  
-Rio de Janeiro | Novembro 2021 — Presente
+Participação em projetos de automação inteligente e análise de dados com uso de Python e recursos de inteligência artificial aplicados a processos de vendas e atendimento.
 
-- 📈 Gerencio a equipe de vendas B2B, desenvolvendo estratégias que aumentam as receitas e melhoram a experiência do cliente.
-- 🔍 Desenvolvimento de planos de negócios em e-commerce e gerenciamento de conteúdo e operações através de ERPs e hubs de integração.
-- 📊 Atuação em campanhas de marketing digital (SEO, mídias sociais, etc.) e análise de dados para otimizar a performance de vendas.
-- 🌟 Liderança em inovação e desenvolvimento de equipes para o setor digital do Grupo ZEMSHOP, com foco em KPIs e ROAS.
+Foco em performance, experiência do usuário (UX/UI) e entrega de valor através da tecnologia.
 
-**Experiência Anterior em Suporte Técnico**  
-
-**Assistente de Suporte Técnico N2 | Exército Brasileiro**  
+Assistente de Suporte Técnico N2 | Exército Brasileiro
 Rio de Janeiro | Janeiro 2020 — Março 2021
 
-- 💻 Prestei suporte técnico aos usuários, incluindo manutenção e instalação de software e hardware.
-- ⚙️ Realizei configurações de sistemas e análise de desempenho, assegurando a resolução eficaz de problemas técnicos.
-- 📝 Contribuí para a documentação e padronização de procedimentos de suporte, garantindo a continuidade e eficiência do atendimento.
+Atendimento de suporte técnico aos usuários internos, instalação e manutenção de software e hardware.
 
-Essa experiência me proporcionou uma base sólida em infraestrutura de TI e suporte ao cliente, que agora desejo expandir e aprofundar. 🔧
+Diagnóstico de falhas em sistemas operacionais, redes e estações de trabalho.
 
----
+Apoio à documentação e padronização de procedimentos para manutenção de infraestrutura e help desk.
 
-## 🎓 Certificações e Formação Acadêmica
+Essa vivência me proporcionou base sólida em infraestrutura de TI, atendimento técnico e resolução de problemas, reforçando minha motivação para continuar evoluindo na área.
 
-Atualmente, estou aprimorando minhas qualificações na área de TI e e-commerce com certificações como:
+🎓 Formação Acadêmica e Certificações
+📚 Formação Acadêmica
+Tecnólogo em Análise e Desenvolvimento de Sistemas – FAETERJ-Rio (Em andamento)
 
-- **Google Digital Marketing & E-commerce Professional Certificate** 📜
-- **Google Project Management: Professional Certificate** (Em andamento) 📈
-- **Curso de Inteligência Artificial e Produtividade | Google** 🤖
-  
-Além disso, estou cursando:
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** na FAETERJ-Rio 🎓
-- **Tecnólogo em Marketing** no Centro Universitário do Rio São Francisco 🎓
+Tecnólogo em Marketing – Centro Universitário do Rio São Francisco (Em andamento)
 
----
+📜 Certificações
+Google Digital Marketing & E-commerce Professional Certificate
 
-## 💡 Habilidades Técnicas e Competências
+Google Project Management: Professional Certificate (Em andamento)
 
-- **Gestão e Otimização de E-commerce**: Experiência com Shopify, Mercado Livre, Shopee e sincronização de SKUs.
-- **Suporte Técnico e Help Desk**: Manutenção de hardware, atendimento a usuários e análise de performance de máquinas.
-- **Análise de Dados e Ferramentas de Gestão**: Ferramentas de SEO, ERPs e integração de marketplaces.
-- **Proatividade e Liderança**: Gestão de equipes, definição de metas e resolução de problemas.
+Curso de Inteligência Artificial e Produtividade | Google
 
----
+Formação em Front-End Web Development (React, Vue.js, TypeScript, Tailwind, entre outros)
 
-## 🔥 Motivação para a Transição para TI
+💡 Habilidades Técnicas
+Desenvolvimento e Implantação
+React, Vue.js, TypeScript, JavaScript
 
-Minha motivação para a transição para TI vem de uma **paixão pela área desde cedo**. Desde meus primeiros passos na carreira, sempre tive interesse em tecnologia, o que me levou a buscar qualificações em TI e a trabalhar com suporte técnico no Exército Brasileiro. Esse interesse e minha experiência prática me motivam a integrar a área de TI de forma mais profunda, contribuindo com meu conhecimento em análise e suporte para soluções técnicas de alta qualidade.
+HTML5, CSS3, Tailwind CSS
 
-Estou animado para dar este próximo passo na minha carreira e estou aberto a oportunidades para expandir meus conhecimentos em **suporte técnico**, **infraestrutura de TI**, e **análise de sistemas**. 💻🚀
+Desenvolvimento de landing pages e SPAs
 
----
+Integrações com APIs e sistemas de terceiros
 
-## 📬 Contato
+Análise e Automação
+Python para automações e análises simples
 
-Se você está procurando alguém para sua equipe de TI que combine habilidades de gestão, experiência em análise de dados e motivação para resolver problemas, entre em contato:
+Aplicações práticas de Inteligência Artificial em e-commerce
 
-- **E-mail**: costa.thalles71@gmail.com 📧
-- **Telefone**: (21) 99681-8038 📞
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/thallesfcosta/) 🔗
+Análise de dados voltada a performance e otimização de vendas
+
+TI e Suporte Técnico
+Manutenção de hardware e suporte a usuários
+
+Instalação/configuração de sistemas operacionais e redes locais
+
+Diagnóstico e solução de falhas técnicas (N1 e N2)
+
+Outros
+Gestão de e-commerce (Shopify, Mercado Livre, Shopee)
+
+Ferramentas de SEO, ERPs e marketplaces
+
+Metodologias ágeis (Scrum, Kanban)
+
+🚀 Motivação para a Transição para TI
+Minha transição para a área de TI é um movimento natural da minha carreira. Desde minha atuação no suporte técnico no Exército, mantive constante evolução técnica e recentemente assumi responsabilidades no desenvolvimento de soluções digitais. Busco aplicar essa bagagem em áreas como suporte, infraestrutura e análise técnica, onde posso unir minha visão estratégica, conhecimento prático e desejo contínuo de aprender e inovar.
+
+📬 Contato
+Se você está procurando um profissional versátil, técnico e orientado a resultados, pronto para contribuir com soluções inteligentes e proativas na área de TI, entre em contato:
+
+E-mail: costa.thalles71@gmail.com 📧
+
+Telefone: (21) 99681-8038 📞
+
+LinkedIn: Meu LinkedIn 🔗
 
 Obrigado pela visita! 😊
+
