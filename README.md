@@ -9,7 +9,7 @@ Atuar em posições de **Suporte Técnico de TI**, **Análise de Infraestrutura*
 - **Nome**: Thalles Costa
 - **Localização**: Rio de Janeiro, Brasil 🇧🇷
 - **Contato**: costa.thalles71@gmail.com 📧 | (21) 99681-8038 📞
-- **LinkedIn**: [Meu LinkedIn](#) 🔗
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/thalles-f-costa/) 🔗
 
 ## 💼 Experiência Profissional
 
