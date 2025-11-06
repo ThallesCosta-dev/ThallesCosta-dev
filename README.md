@@ -43,14 +43,15 @@ Atuar em posições de **Suporte Técnico de TI**, **Análise de Infraestrutura*
 ## 💡 Habilidades Técnicas
 
 ### **Desenvolvimento e Implantação**
+- **C**, **Java**, **Python**, **PHP**
 - **React**, **Vue.js**, **TypeScript**, **JavaScript**
 - **HTML5**, **CSS3**, **Tailwind CSS**
 - Desenvolvimento de **landing pages** e **SPAs**
 - Integrações com **APIs** e sistemas de terceiros
 
 ### **Análise e Automação**
-- **Python** para automações e análises simples
-- Aplicações práticas de **Inteligência Artificial** em e-commerce
+- **Python** para extrações, automações e análises de dados
+- Aplicações práticas de **Inteligência Artificial**
 - **Análise de dados** voltada a performance e otimização de vendas
 
 ### **TI e Suporte Técnico**
