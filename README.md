@@ -8,10 +8,6 @@ Atuar em posições de **Suporte Técnico de TI**, **Análise de Infraestrutura*
 ## 👤 Sobre Mim
 - **Nome**: Thalles Costa
 - **Localização**: Rio de Janeiro, Brasil 🇧🇷
-- **Contato**:
-
-[![TELEFONE](https://img.shields.io/badge/TELEFONE-red)(2199681-8038)
-
 
 [![EMAIL](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge
 )](costa.thalles71@gmail.com) 
