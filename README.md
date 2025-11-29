@@ -6,17 +6,17 @@ Com um background sólido em **E-commerce e Marketing**, hoje aplico essa visão
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
-- 📍 Vivo no **Rio de Janeiro, Brasil**.
-- 💼 Trabalho na **Fiocruz** como **Analista de IA**.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (FAETERJ).
-- 💡 Foco em: **IA**, **Analise de Dados** e **Dashboards**, **além de criação de automações e projetos com IA**.
-- 🎯 **Objetivo:** Desenvolver soluções escaláveis que unam infraestrutura robusta e inteligência de dados.
+-  **Rio de Janeiro, Brasil**.
+- Trabalho na **Fiocruz** como **Analista de IA**.
+- Cursando **Análise e Desenvolvimento de Sistemas** (FAETERJ).
+- Foco em: **IA**, **Analise de Dados** e **Dashboards**, **além de criação de automações e projetos com IA**.
+- **Objetivo:** Desenvolver soluções escaláveis que unam infraestrutura robusta e inteligência de dados.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **IA & Data Science**
 
@@ -33,15 +33,11 @@ Com um background sólido em **E-commerce e Marketing**, hoje aplico essa visão
 ---
 
 ### 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallesCosta-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesCosta-dev&layout=compact&theme=dracula"/>
-</a>
+![GitHub Stats](https://streak-stats.demolab.com?user=ThallesCosta-dev&theme=default&hide_border=true)
 
 ---
 
-### 📬 Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/thalles-f-costa/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
