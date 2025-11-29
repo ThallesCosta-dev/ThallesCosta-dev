@@ -34,7 +34,6 @@ Com um background sólido em **E-commerce e Marketing**, hoje aplico essa visão
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://streak-stats.demolab.com?user=ThallesCosta-dev&theme=default&hide_border=true)
-
 ---
 
 ### Contato
