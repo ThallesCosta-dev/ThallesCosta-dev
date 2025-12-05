@@ -1,4 +1,4 @@
-# Olá, eu sou Thalles Costa! 👋🚀
+# Olá, eu sou Thalles Costa! 
 
 Sou **Analista de Inteligência Artificial** na **Fiocruz** e especialista em soluções digitais.
 
